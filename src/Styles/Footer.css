@@ -1,0 +1,8 @@
+.footer-contenedor {
+	background-color: #44d9e8;
+	width: 100%;
+	height: 100px;
+	color: #000;
+	display: flex;
+	justify-content: space-between;
+}

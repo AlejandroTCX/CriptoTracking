@@ -1,0 +1,36 @@
+.contenedor-tarjeta {
+	width: 290px;
+	height: 320px;
+	background-color: #1a0933;
+	border: 5px #ea39b8 solid;
+	border-radius: 25px;
+	justify-content: center;
+	align-items: center;
+	margin: auto;
+	margin-top: 25px;
+}
+.img-cripto {
+	width: 140px;
+	height: 140px;
+	margin-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	border-radius: 50px;
+}
+.criptomoneda-nombre {
+	justify-content: center;
+	display: flex;
+	margin-top: 40px;
+	font-size: 20px;
+	font-weight: bold;
+	color: #32fbe2;
+}
+.criptomoneda-precio {
+	justify-content: center;
+	display: flex;
+	margin-top: 20px;
+	font-size: 20px;
+	font-weight: bold;
+	color: #ffc107;
+}

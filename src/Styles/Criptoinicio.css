@@ -1,0 +1,15 @@
+.contenedor-divisas {
+	background-color: #6f3fc1;
+	color: #6f3fc1;
+	width: auto;
+	height: 380px;
+	justify-content: space-between;
+	align-items: center;
+}
+.divisas-criptomoneda {
+	width: auto;
+	height: auto;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
